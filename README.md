@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer &nbsp;·&nbsp; Product Engineer &nbsp;·&nbsp; AI App Builder</h3>
 
 <p align="center">
-  M.Sc Software Systems student building scalable web apps, AI-powered tools, and developer-focused products.<br/>
-  I turn ideas into working software — fast and clean.
+  Building scalable digital products, modern web applications, and AI-powered solutions focused on performance, usability, and real-world impact.<br/>
+  Passionate about transforming ideas into efficient, clean, and production-ready software.
 </p>
 
 <br/>
